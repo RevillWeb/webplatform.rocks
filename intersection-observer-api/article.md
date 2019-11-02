@@ -1,5 +1,5 @@
---- Title: Using the Intersection Observer API
---- Description: Learn to use the Intersection Observer API to efficiently detect when elements come into view and put that knowledge into action by using the Intersection Observer API to lazy-load images.
+[~] Title: Using the Intersection Observer API
+[~] Description: Learn to use the Intersection Observer API to efficiently detect when elements come into view and put that knowledge into action by using the Intersection Observer API to lazy-load images.
 
 **Ever needed to know if a particular element is visible to the user?** If you've tried to solve this problem before you probably used something like `getBoundingClientRect()` to get the elements location and dimensions and then cross-referenced these with window's width and height to hopefully figure out if the element is within the users visible viewport. 
 
