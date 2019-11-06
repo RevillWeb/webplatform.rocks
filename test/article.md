@@ -5,8 +5,9 @@ This is to be ignored!
 ##########
 
 [-] Title: This is a test article
-[-] Description: This is the description for the test article
-[-] Published: one two three
+[-] Summary: This is the description for the test article
+[-] Published: false
+[-] Read Time: 10
 
 
 # Test Article Header
