@@ -1,6 +1,6 @@
 [-] Title: Using the Intersection Observer API
 
-[-] Description: Learn to use the Intersection Observer API to efficiently detect when elements come into view and put that knowledge into action by using the Intersection Observer API to lazy-load images.
+[-] Summary: Learn to use the Intersection Observer API to efficiently detect when elements come into view and put that knowledge into action by using the Intersection Observer API to lazy-load images.
 
 [-] Published: true
 
