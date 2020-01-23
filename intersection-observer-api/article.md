@@ -6,6 +6,8 @@
 
 [-] Read Time: 30
 
+===
+
 **Ever needed to know if a particular element is visible to the user?** If you've tried to solve this problem before you probably used something like `getBoundingClientRect()` to get the elements location and dimensions and then cross-referenced these with window's width and height to hopefully figure out if the element is within the users visible viewport. 
 
 Not only is this a pain to do it's really inefficient as a call `getBoundingClientRect()` or `clientWith` causes the browser to go through its layout process!
